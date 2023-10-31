@@ -1,16 +1,39 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello&desc=sgkim's%20Github%20&animation=fadeIn)
 
-<!--
-**sgkim6/sgkim6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⭐️ Stack
+<div>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👍 Project
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Activity</th>
+    <th>Tech Stack</th>
+    <th>Year</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/woori-hippy/hippy_back" target="_blank">Food Network Service</a></td>
+    <td>삼성 청년 SW 아카데미 특화 프로젝트 - 빅데이터(추천)</td>
+    <td>Spring Boot, FastAPI, Amazon AWS, Docker, MySQL, Redis</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/junction-hippy/junction_hippy_back" target="_blank">가치를 만드는 서재, Readed</a></td>
+    <td>삼성 청년 SW 아카데미 공통 프로젝트 - 웹기술(WebRTC)</td>
+    <td>Spring Boot, WebRTC, MySQL, Redis</td>
+    <td>2021</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Jandy-SeoulTech/Jandy_Web_Back">어떤데? - 관광지 검색 및 추천 서비스</a></td>
+    <td>삼성 청년 SW 아카데미 관통 프로젝트</td>
+    <td>Spring Boot, MyBatis</td>
+    <td>2021</td>
+  </tr>
+</table>
