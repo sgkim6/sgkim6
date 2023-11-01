@@ -19,19 +19,19 @@
     <th>Year</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/woori-hippy/hippy_back" target="_blank">Food Network Service</a></td>
+    <td><a href="[https://github.com/woori-hippy/hippy_back](https://github.com/S09P22A403/fns)" target="_blank">Food Network Service</a></td>
     <td>삼성 청년 SW 아카데미 특화 프로젝트 - 빅데이터(추천)</td>
     <td>Spring Boot, FastAPI, Amazon AWS, Docker, MySQL, Redis</td>
     <td>2023</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/junction-hippy/junction_hippy_back" target="_blank">가치를 만드는 서재, Readed</a></td>
+    <td><a href="https://github.com/S09P12A507/readed" target="_blank">가치를 만드는 서재, Readed</a></td>
     <td>삼성 청년 SW 아카데미 공통 프로젝트 - 웹기술(WebRTC)</td>
     <td>Spring Boot, WebRTC, MySQL, Redis</td>
     <td>2023</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Jandy-SeoulTech/Jandy_Web_Back">어떤데? - 관광지 검색 및 추천 서비스</a></td>
+    <td><a href="https://github.com/sgkim6/enjoytrip-backend">어떤데? - 관광지 검색 및 추천 서비스</a></td>
     <td>삼성 청년 SW 아카데미 관통 프로젝트</td>
     <td>Spring Boot, MyBatis</td>
     <td>2023</td>
