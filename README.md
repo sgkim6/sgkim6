@@ -21,7 +21,7 @@
   <tr>
     <td><a href="https://github.com/S09P31A104/board-collie" target="_blank">Board-collie</a></td>
     <td>삼성 청년 SW 아카데미 특화 프로젝트 - 자율 프로젝트</td>
-    <td>Spring Boot, Python3, Tensorflow</td>
+    <td>Spring Boot, Python3, Redis</td>
     <td>2023</td>
   </tr>
   <tr>
