@@ -19,6 +19,12 @@
     <th>Year</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/S09P22A403/fns" target="_blank">Board-collie</a></td>
+    <td>삼성 청년 SW 아카데미 특화 프로젝트 - 자율 프로젝트</td>
+    <td>Spring Boot, Python3, Tensorflow</td>
+    <td>2023</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/S09P22A403/fns" target="_blank">Food Network Service</a></td>
     <td>삼성 청년 SW 아카데미 특화 프로젝트 - 빅데이터(추천)</td>
     <td>Spring Boot, FastAPI, Amazon AWS, Docker, MySQL, Redis</td>
